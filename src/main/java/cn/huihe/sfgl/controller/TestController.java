@@ -18,5 +18,4 @@ public class TestController extends ActionSupport{
 		System.out.println("访问了hello");
 		return SUCCESS;
 	}
-
 }
